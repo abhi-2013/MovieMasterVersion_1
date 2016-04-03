@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MovieMaster</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">MovieDetails</string>
+
+    <string name="pref_sort_via_label">Sort Via</string>
+    <string name="pref_sort_via_most_popular" translatable="false">Most Popular</string>
+    <string name="pref_sort_via_top_rated" translatable="false">Top Rated</string>
+    <string name="pref_sort_via_key" translatable="false">Sort Via</string>
+    <string name="pref_sort_via_label_top_rated">Top Rated</string>
+    <string name="pref_sort_via_label_most_popular">Most Popular</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
